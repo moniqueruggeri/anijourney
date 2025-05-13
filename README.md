@@ -14,7 +14,7 @@ Built using **React**, this project was also an opportunity to practice responsi
 
 ## 📌 Project Status
 
-✅ **Completed** – Static layout with React components, fully responsive.  
+🛠️ **Building** – Static layout with React components, fully responsive.  
 🚧 *Future updates may include interactivity or backend integration.*
 
 ## 🎯 Key Features
