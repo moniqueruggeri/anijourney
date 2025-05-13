@@ -25,7 +25,7 @@ Built using **React**, this project was also an opportunity to practice responsi
 
 ## 🚀 Live Preview
 
-🔗 [https://anijourney.vercel.app](https://anijourney.vercel.app) _(replace if different)_
+🔗 [https://anijourney.vercel.app](https://anijourney.vercel.app)
 
 ---
 
